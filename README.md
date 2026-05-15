@@ -55,7 +55,7 @@ CREATE DATABASE IF NOT EXISTS smart_task_manager;
 ## How to Run
 ### 1. Clone the repository
 ```bash
-git clone <your-public-github-repo-url>
+git clone https://github.com/CopilotGit-dev/smart-task-manager.git
 cd smart-task-manager
 ```
 
